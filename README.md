@@ -4,8 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### Senior Developer
 ----------------
 
-Since July 2022, I have been a Senior Developer at Cognizant Technology Solutions, specializing in Salesforce-based cloud projects for finance, banking, and NGO sectors. My work focuses on developing custom Lightning Web Components (LWC), integrating REST APIs, and implementing payment solutions like Stripe. I also mentor team members, manage system performance, and oversee incident and change management. I co-authored a research paper on data protection in cloud computing, published in the Journal of Network and Computer Applications, and conducted a Salesforce webinar for over 50 students. With certifications in Salesforce Platform Developer I, JavaScript Developer I, and Platform App Builder, I bring expertise in Salesforce Development, Java, JavaScript, C++, and tools like Visual Studio Code and GitHub to deliver efficient, scalable solutions.
-
+Senior Developer at Cognizant (Since July 2022)
+Specializing in Salesforce-based cloud projects for finance, banking, and NGO sectors
+Expertise in developing Lightning Web Components (LWC), integrating REST APIs, and implementing Stripe payment solutions
+Mentor for team members and responsible for system performance, incident, and change management
+Co-authored a research paper on data protection in cloud computing, published in the Journal of Network and Computer Applications
+Conducted a Salesforce webinar for 50+ students
+Certifications: Salesforce Platform Developer I, JavaScript Developer I, and Platform App Builder
+Skills in Salesforce Development, Java, JavaScript, C++, and tools like Visual Studio Code and GitHub
 * 🌍  I'm based in India
 * ✉️  You can contact me at [ratikeshgaonkar23@gmail.com](mailto:ratikeshgaonkar23@gmail.com)
 
