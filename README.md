@@ -35,8 +35,8 @@ addressing key challenges in cloud data security.
 ###  Latest Blogs
 ----------------
 
-- [Securing Local Storage Data in Salesforce Using AES Encryption...)](https://medium.com/@ratikeshgaonkar/securing-local-storage-data-in-salesforce-using-aes-encryption-20b7ea9291a5)
-- [In the world of Salesforce Lightning Web Components (LWC), I used to rely on traditional methods...)](https://medium.com/@ratikeshgaonkar/in-the-world-of-salesforce-lightning-web-components-lwc-i-used-to-rely-on-traditional-methods-029f548e26f7)
+- [Securing Local Storage Data in Salesforce Using AES Encryption...](https://medium.com/@ratikeshgaonkar/securing-local-storage-data-in-salesforce-using-aes-encryption-20b7ea9291a5)
+- [In the world of Salesforce Lightning Web Components (LWC), I used to rely on traditional methods...](https://medium.com/@ratikeshgaonkar/in-the-world-of-salesforce-lightning-web-components-lwc-i-used-to-rely-on-traditional-methods-029f548e26f7)
 
 
 ### Socials
