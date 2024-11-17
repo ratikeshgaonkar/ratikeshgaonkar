@@ -8,7 +8,6 @@ Senior Developer at Cognizant (Since July 2022)
 Specializing in Salesforce-based cloud projects for finance, banking, and NGO sectors
 Expertise in developing Lightning Web Components (LWC), integrating REST APIs, and implementing Stripe payment solutions
 Mentor for team members and responsible for system performance, incident, and change management
-Co-authored a research paper on data protection in cloud computing, published in the Journal of Network and Computer Applications
 Conducted a Salesforce webinar for 50+ students
 Certifications: Salesforce Platform Developer I, JavaScript Developer I, and Platform App Builder
 Skills in Salesforce Development, Java, JavaScript, C++, and tools like Visual Studio Code and GitHub
