@@ -9,6 +9,14 @@ Since July 2022, I have been a Senior Developer at Cognizant Technology Solution
 * 🌍  I'm based in India
 * ✉️  You can contact me at [ratikeshgaonkar23@gmail.com](mailto:ratikeshgaonkar23@gmail.com)
 
+Senior Developer
+----------------
+
+Since July 2022, I have been a Senior Developer at Cognizant Technology Solutions, specializing in Salesforce-based cloud projects for finance, banking, and NGO sectors. My work focuses on developing custom Lightning Web Components (LWC), integrating REST APIs, and implementing payment solutions like Stripe. I also mentor team members, manage system performance, and oversee incident and change management. I co-authored a research paper on data protection in cloud computing, published in the Journal of Network and Computer Applications, and conducted a Salesforce webinar for over 50 students. With certifications in Salesforce Platform Developer I, JavaScript Developer I, and Platform App Builder, I bring expertise in Salesforce Development, Java, JavaScript, C++, and tools like Visual Studio Code and GitHub to deliver efficient, scalable solutions.
+
+* 🌍  I'm based in India
+* ✉️  You can contact me at [ratikeshgaonkar23@gmail.com](mailto:ratikeshgaonkar23@gmail.com)
+
 ### Skills
 
 
