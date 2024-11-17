@@ -1,9 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ratikesh Gaonkar
 ========================================================================================================================================
 
-### Senior Developer
-----------------
-
 - **Senior Developer at Cognizant (Since July 2022)**
 - Specializing in Salesforce-based cloud projects for finance, banking, and NGO sectors
 - Expertise in developing **Lightning Web Components (LWC)**, integrating **REST APIs**, and implementing **Stripe payment solutions**
