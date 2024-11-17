@@ -17,9 +17,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### Research Paper
 ----------------
 
-Title: *Data Protection in Cloud Computing Using an Efficient Algorithm*  
-Published In: *Journal of Network and Computer Applications*  
-Summary: This research explores the use of JavaScript local storage for securing sensitive data in cloud environments.
+**Title**: *Data Protection in Cloud Computing Using an Efficient Algorithm*  
+**Published In**: *Journal of Network and Computer Applications*  
+**Summary**: This research explores the use of JavaScript local storage for securing sensitive data in cloud environments.
 It provides an efficient algorithm for managing and protecting data across distributed systems, 
 addressing key challenges in cloud data security.
 
