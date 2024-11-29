@@ -1,5 +1,5 @@
 ## 🚀 What I'm currently doing
-========================================================================================================================================
+
 
 - **Senior Developer at Cognizant (Since July 2022)**
 - Specializing in Salesforce-based cloud projects for finance, banking, and NGO sectors.
