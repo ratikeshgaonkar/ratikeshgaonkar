@@ -42,8 +42,7 @@ Languages:
 Developer Tools: 
 ![Linux](https://img.shields.io/badge/Linux-FF6C37?style=for-the-badge&logo=linux&logoColor=black) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%230db7ed?style=for-the-badge&logo=kubernetes&logoColor=white) 
-![Jenkins](https://img.shields.io/badge/Jenkins-F2C811?style=for-the-badge&logo=jenkins&logoColor=black) 
+
 
 Cloud: 
 ![Salesforce](https://img.shields.io/badge/salesforce-%23FF5C8D.svg?style=for-the-badge&logo=salesforce&logoColor=white)
