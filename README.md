@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ratikesh Gaonkar
+## 🚀 What I'm currently doing
 ========================================================================================================================================
 
 - **Senior Developer at Cognizant (Since July 2022)**
@@ -19,24 +19,36 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 **Title**: *Data Protection in Cloud Computing Using an Efficient Algorithm*  
 **Published In**: *Journal of Network and Computer Applications*  
-**Summary**: This research explores the use of JavaScript local storage for securing sensitive data in cloud environments.
+**Summary**: This research explores using JavaScript local storage for securing sensitive data in cloud environments.
 It provides an efficient algorithm for managing and protecting data across distributed systems, 
 addressing key challenges in cloud data security.
 
 
-### Skills
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px"/> <space> Tech Stack
 ----------------
 
+
+Languages: 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=sql&logoColor=white) 
+![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=FFF&style=for-the-badge)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=FFF&style=for-the-badge)
+
+
+Developer Tools: 
+![Linux](https://img.shields.io/badge/Linux-FF6C37?style=for-the-badge&logo=linux&logoColor=black) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%230db7ed?style=for-the-badge&logo=kubernetes&logoColor=white) 
+![Jenkins](https://img.shields.io/badge/Jenkins-F2C811?style=for-the-badge&logo=jenkins&logoColor=black) 
+
+Cloud: 
 ![Salesforce](https://img.shields.io/badge/salesforce-%23FF5C8D.svg?style=for-the-badge&logo=salesforce&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)<br/>
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)<br/>
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+
 
 
 
